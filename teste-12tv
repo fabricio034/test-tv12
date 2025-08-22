@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://reidoscanais.life/img/band.png" group-title="canais aberto",band
+https://reidoscanais.life/embed/?id=band
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="esportes",espn
+https://reidoscanais.life/embed/?id=espn
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://i.imgur.com/eHJ8Vm3.png" group-title="esportes",sportv
+https://reidoscanais.life/embed/?id=sportv
